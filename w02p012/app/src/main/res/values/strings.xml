@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokaz grafiki</string>
+    <string name="button_01">Zmień grafikę na inną</string>
+    <string name="button_02">Pokaz opis</string>
+    <string name="opis">To jest obrazek zrobiony na szybko</string>
+
+</resources>
