@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">w06p02</string>
+
+    <string-array name="opisy">
+        <item>Neonowy wilk</item>
+        <item>Czarno-biały wilk</item>
+        <item>trzy wilki</item>
+        <item>Całe stadko neonowych wilków</item>
+    </string-array>
+
+
+
+</resources>
